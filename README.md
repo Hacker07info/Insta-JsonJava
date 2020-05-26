@@ -8,11 +8,11 @@ che contiene proprio il json di risposta dalle API Instagram.
 
 Nel repository c'è anche un file ip che contiene un jar. E' un pacchetto con alcune classi che ti servono per fare il parsing json, non a caso, nel codice ho importato quelle librerie
 
-***> import org.json.simple.JSONArray;***
+	***> import org.json.simple.JSONArray;***
 
-***> import org.json.simple.JSONObject;***
+	***> import org.json.simple.JSONObject;***
 
-***> import org.json.simple.parser.*;***
+	***> import org.json.simple.parser.*;***
 
 Ovviamente estratto il pacchetto jar, devi importarlo del tuo progetto, non ho dimestichezza con netbeans, ma oltre ad importare il JRE normale, aggiungi anche questo JAR.
 
